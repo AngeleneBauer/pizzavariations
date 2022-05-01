@@ -9,7 +9,7 @@ credits: true
 ---
 
 
-
+{% include feature/jumbotron.html objectid="/objects/banner.html" %}
 
 
 ## About the Collection
