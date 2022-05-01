@@ -8,20 +8,21 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include objects/banner.jpg  %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Welcome to our exhibit, “Around the World in Eleven Pizzas.” Our exhibit includes photographs and recipes for different ways to make pizza that come from different cultures and countries around the world. Use our interactive map to discover pizzas from the United States to Korea. As you travel from pizza to pizza and country to country, read a little about the history of how each country created their own kinds of pizzas. With this exhibit, we hope to foster an appreciation for different cultures and countries. When you find the pizza that really makes your mouth water, use our recipes and try to make your own! Bon a petit!
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Here is some information about the wise people behind this exhibit and the role they played.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+**Angelene Bauer**
+Angelene found half of the pizzas we have in our exhibit and wrote out the recipes and history of each pizza. She worked on the coding of the exhbit and followed step-by-step instructions on YouTube and the CollectionBuilder site. She inputted data directly into the metadata including latitude and longitude, descriptions, and subjects. 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+**Jen Giffin**
+Jen also found half of the pizzas we have in our exhibit and wrote out the recipes and history of each pizza. She worked on the coding of the exhbit and followed step-by-step instructions on YouTube and the CollectionBuilder site as well. She inputted data directly into the metadata including creator, dates, titles, and locations. 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+**Troy Trafton**
+Troy found and formatted each image in our collection so they would be consistent and a size the platform could handle. He also provided several of the pizzas that we used in our exhibit and where they came from. He inputted the file names and found the rights statements for each item. Troy also worked with Angelene and Jen on the coding to perfect our exhibit. 
