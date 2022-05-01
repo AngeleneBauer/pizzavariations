@@ -27,14 +27,14 @@ tagline: A taste of culture
 # this description might appear in search result lists, keep around 160 characters max
 description: "Welcome to our exhibit, 'Around the World in 12 Pizzas.' Our exhibit includes photographs and recipes for different ways to make pizza that come from different cultures and countries around the world."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: AngeleneBauer
+author: Angelene Bauer, Jen Giffin, and Troy Trafton
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata 
+metadata: pizzas 
 
 ##########
 # Site/Organization Branding 
