@@ -76,4 +76,6 @@ exclude: [docs/, Rakefile, README.md, LICENSE]
 sass:
   style: compressed
 
-theme: jekyll-theme-merlot
+remote theme: pages-themes/merlot@v0.2.0
+plugins: jekyll-remote-theme
+
