@@ -73,6 +73,6 @@ _History from: Medya, Zera https://www.dishesorigins.com/lahmacun/_
 
 **Pissaladiere — France**
 
-_Recipe & Image from: Leatart, Brian | https://www.epicurious.com/recipes/food/views/pissaladiere-105654_
+_Recipe & Image from: Leatart, Brian https://www.epicurious.com/recipes/food/views/pissaladiere-105654_
 
-_History from: Benayoun, Mike | https://www.196flavors.com/france-pissaladiere/_
+_History from: Benayoun, Mike https://www.196flavors.com/france-pissaladiere/_
