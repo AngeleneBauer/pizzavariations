@@ -1,6 +1,6 @@
 ---
 title: Works Cited
-layout: about
+layout: data
 permalink: /workscited.html
 # include CollectionBuilder info at bottom
 credits: true
